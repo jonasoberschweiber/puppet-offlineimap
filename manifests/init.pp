@@ -3,7 +3,7 @@
 # Examples
 #
 #   include offlineimap
-class mutt {
+class offlineimap {
     include homebrew
 
     package { 'offline-imap': }
